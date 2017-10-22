@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Book Review</string>
+    <string name="btn_new_review">New Review</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_save">Save</string>
+    <string name="dialog_title_cancel_review">Cancel Review</string>
+    <string name="dialog_body_cancel_review">Are you sure you want to cancel your review?</string>
+    <string name="new_review_text">Review for %1$s</string>
+    <string name="error_server">Server error, please try again!</string>
+    <string name="review_added">Review added successfully. Thank you for your participation</string>
+    <string name="error_get_scanned_content">Error getting book ID, please scan again!</string>
+    <string name="btn_login">Login</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="error_empty_username_password">Please fill the username and password!</string>
+    <string name="error_logged_out">You are logged out!</string>
+    <string name="logged_in_text">Logged in as %s</string>
+    <string name="not_logged_in_text">Please log in</string>
+    <string name="btn_logout">Log Out</string>
+    <string name="error_rating_missing">Please select your rating!</string>
+</resources>
