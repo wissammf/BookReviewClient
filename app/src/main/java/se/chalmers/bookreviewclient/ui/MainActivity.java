@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity implements LoginDialogFragme
         } else {
             mBtnNewReview.setText(R.string.btn_login);
             mTvLoginInfo.setText(R.string.not_logged_in_text);
-            mBtnLogout.setVisibility(View.GONE);
+            mBtnLogout.setVisibility(View.INVISIBLE);
         }
     }
 }
